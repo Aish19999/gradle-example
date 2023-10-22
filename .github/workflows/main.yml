@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+      - feature-deployment
 
 jobs:
    read_config:
